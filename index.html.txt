@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <h1>kl s?a local</h1>
+=======
+
+>>>>>>> a800484f60cfb3f24bcb8f3d14a12bf89ad5c277
